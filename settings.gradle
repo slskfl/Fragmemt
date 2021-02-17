@@ -1,0 +1,4 @@
+include ':viewpager'
+include ':fragmenttab'
+include ':app'
+rootProject.name = "Fragmemt"
